@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-I’m a backend developer with a passion for building clean, efficient code and learning new technologies. I have hands-on experience working on large-scale systems at an international company, where I have deep-dived into complex codebases, fixed bugs, and added new features that improved functionality and performance.
+I’m a junior backend developer with a passion for building clean, efficient code and learning new technologies. I have hands-on experience working on large-scale systems at an international company, where I have deep-dived into complex codebases, fixed bugs, and added new features that improved functionality and performance.
 
 Beyond coding, I’m fascinated by video games, architecture, and aerospace. I enjoy exploring complex systems, whether in software or in the real world.
 
