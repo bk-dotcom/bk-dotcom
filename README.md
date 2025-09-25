@@ -18,7 +18,7 @@ Beyond coding, I’m fascinated by video games, architecture, and aerospace. I e
 <img align="left" alt="Doctrine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-
+<br>
 
 ### Daily Routine
 
