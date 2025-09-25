@@ -19,3 +19,4 @@ Beyond coding, I’m fascinated by video games, architecture, and aerospace. I e
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 
+<img src="https://tenor.com/view/gordon-freeman-gordon-freeman-gordon-freeman-dancing-gordon-freeman-dance-gif-21241924" width="400"/>
